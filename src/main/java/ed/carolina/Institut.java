@@ -1,10 +1,10 @@
 package ed.carolina;
 
-public class School {
+public class Institut {
 
 	public static void main(String[] args) {
 		
-		Persona p = new Persona();
+		Alumne p = new Alumne();
 		
 		p.nom = "Carolina";
 		p.cognoms = "Torregrosa";
